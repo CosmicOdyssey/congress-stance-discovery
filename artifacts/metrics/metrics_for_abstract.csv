@@ -1,0 +1,17 @@
+Setting,Split,AUC,AP,Acc,F1,PR_png,CM_png
+Fused+Inter+Member (LR),Test,0.8808092342254488,0.9480209457533332,0.7894845391199304,0.8455335524040124,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,
+Fused+Inter+Member (MLP),Test,0.8907605341715019,0.949060171234246,0.8459362708268883,0.8940597268933101,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,Data/cm_Fused+Inter+Member (LR)_Test.png
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,Data/cm_Fused+Inter+Member (MLP)_Test.png
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,Data/cm_Fused+Inter+Member (LR)_Test.png
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,Data/cm_Fused+Inter+Member (MLP)_Test.png
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,Data/cm_Fused+Inter+Member (LR)_Test.png
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,Data/cm_Fused+Inter+Member (MLP)_Test.png
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,Data/cm_Fused+Inter+Member (LR)_Test.png
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,Data/cm_Fused+Inter+Member (MLP)_Test.png
+Fused+Inter+Member (LR),Test,0.8809117548521521,0.9480258986568336,0.7891309792136239,0.8452038498972639,Data/fig_PR_Fused+Inter+Member (LR)_Test.png,Data/cm_Fused+Inter+Member (LR)_Test.png
+Fused+Inter+Member (MLP),Test,0.8896188929221066,0.9524462963932164,0.8417082836139715,0.8916736397455415,Data/fig_PR_Fused+Inter+Member (MLP)_Test.png,Data/cm_Fused+Inter+Member (MLP)_Test.png
